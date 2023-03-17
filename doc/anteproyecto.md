@@ -9,8 +9,11 @@
 ## Indice
 
 ## 1. [Descripción del problema.](#id1)
+
 ## 2. [Objetivo.](#id2)
+
 ## 3. [Arquitectura y tencologías a utilizar.](#id3)
+
 ## 4. [Boceto de la solución.](#id4)
 
 <a name="id1"></a>
