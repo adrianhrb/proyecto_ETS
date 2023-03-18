@@ -20,7 +20,7 @@
 
 ### Descripción del problema
 
->Nota: Descripción del problema.
+>Nota: Descripción del proyecto.
 
 <a name="id2"></a>
 
