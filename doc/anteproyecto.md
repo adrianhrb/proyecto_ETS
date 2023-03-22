@@ -3,7 +3,7 @@
 # Anteproyecto - Formula Fantasy
 
 <div align="center">
-<img src="img/FFlogoname.jpeg"/>
+<img width=50% src="img/FFlogoname.jpeg"/>
 </div>
 
 ## Indice
@@ -55,7 +55,7 @@ Como anexo, se pretende implementar un sistema de apuestas en la que los usuario
 ### Boceto de la solución
 
 <div align="center">
-<img src="img/first.jpg"/>
+<img width=50% src="img/first.jpg"/>
 </div>
 
 </div>
