@@ -118,7 +118,7 @@
 | Autor           | Adrián Herrera Brito, Alejandro Hernández Domínguez                                                                                                               |
 | Date            | 29/03/2023                                                                                                                                                        |
 
-| Use case        | C.U.8 Create a league                                 |
+| Use case        | C.U.9 Create a league                                 |
 | --------------- | ----------------------------------------------------- |
 | Sources         | [Use case diagram](img/Diagrama_casos_uso.drawio.png) |
 | Actor           | Registered user                                       |
@@ -130,7 +130,7 @@
 | Autor           | Adrián Herrera Brito, Alejandro Hernández Domínguez   |
 | Date            | 29/03/2023                                            |
 
-| Use case        | C.U.8 Create a league                                         |
+| Use case        | C.U.10 Create a league                                        |
 | --------------- | ------------------------------------------------------------- |
 | Sources         | [Use case diagram](img/Diagrama_casos_uso.drawio.png)         |
 | Actor           | Registered user                                               |
@@ -142,7 +142,7 @@
 | Autor           | Adrián Herrera Brito, Alejandro Hernández Domínguez           |
 | Date            | 29/03/2023                                                    |
 
-| Use case        | C.U.9 Check global ranking                                                             |
+| Use case        | C.U.11 Check global ranking                                                            |
 | --------------- | -------------------------------------------------------------------------------------- |
 | Sources         | [Use case diagram](img/Diagrama_casos_uso.drawio.png)                                  |
 | Actor           | Registered user                                                                        |
@@ -154,7 +154,7 @@
 | Autor           | Adrián Herrera Brito, Alejandro Hernández Domínguez                                    |
 | Date            | 29/03/2023                                                                             |
 
-| Use case        | C.U.10 Register                                                                                                                                                 |
+| Use case        | C.U.12 Register                                                                                                                                                 |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sources         | [Use case diagram](img/Diagrama_casos_uso.drawio.png)                                                                                                           |
 | Actor           | Unregistered user, Registered user                                                                                                                              |
