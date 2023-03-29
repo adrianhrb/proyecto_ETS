@@ -124,7 +124,7 @@
 | Date            | 29/03/2023                                            |
 
 13
-| Use case | C.U.10 Create a league |
+| Use case | C.U.10 Invite to the league |
 | --------------- | ------------------------------------------------------------- |
 | Sources | [Use case diagram](img/Diagrama_casos_uso.drawio.png) |
 | Actor | Registered user |
