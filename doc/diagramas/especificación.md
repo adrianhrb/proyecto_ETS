@@ -1,5 +1,7 @@
 # USE CASES SPECIFICATION
 
+Use cases specification from [Diagram](img/Diagrama_casos_uso.drawio.png)
+
 **_Actors:_**
 
 | Actor           | Registered user                                                                                                             |
