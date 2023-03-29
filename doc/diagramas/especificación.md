@@ -6,7 +6,7 @@
 | --------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Characteristics | It's the user that can fully use the aplication, creating a team and competing to win making the best choices every weekend |
 | Relations       | The registered user can also make the operations of the unregistered user, that only include creating a new account         |
-| References      | From C.U.1 to C.U.12                                                                                                        |
+| References      | From C.U.1 to C.U.11                                                                                                        |
 | Notes           | -                                                                                                                           |
 | Autors          | Adrián Herrera Brito                                                                                                        |
 | Date            | 29/03/2023                                                                                                                  |
@@ -15,7 +15,7 @@
 | --------------- | ------------------------------------------------------------------------------------- |
 | Characteristics | It's the user that is not registered and can create an account to use the application |
 | Relations       | Any relation                                                                          |
-| References      | From C.U.13                                                                           |
+| References      | C.U.12                                                                                |
 | Notes           | -                                                                                     |
 | Autors          | Adrián Herrera Brito, Alejandro Hernández Domínguez                                   |
 | Date            | 29/03/2023                                                                            |
@@ -27,7 +27,7 @@
 | Sources         | [Use case diagram](img/Diagrama_casos_uso.drawio.png)                                                                                    |
 | Actor           | Registered user                                                                                                                          |
 | Description     | This is the first step, the user needs to authenticate himself in the application with his credentials to be able to use all the options |
-| Pre-Condiciones | -                                                                                                                                        |
+| Pre-Condiciones | - 13                                                                                                                                     |
 | Post-Conditions | -                                                                                                                                        |
 | Requirements    | Having a created account in the application                                                                                              |
 | Notes           | -                                                                                                                                        |
@@ -106,17 +106,10 @@
 | Autor           | Adrián Herrera Brito, Alejandro Hernández Domínguez                                                         |
 | Date            | 29/03/2023                                                                                                  |
 
-| Use case        | C.U.8 Check league ranking                                                                                                                                        |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sources         | [Use case diagram](img/Diagrama_casos_uso.drawio.png)                                                                                                             |
-| Actor           | Registered user                                                                                                                                                   |
-| Description     | The user can check the league standings to see the results of other users or friends, the number of points scored by others and see the positions of each player. |
-| Pre-Condiciones | Beeing in at least one league                                                                                                                                     |
-| Post-Conditions | -                                                                                                                                                                 |
-| Requirements    | -                                                                                                                                                                 |
-| Notes           | -                                                                                                                                                                 |
-| Autor           | Adrián Herrera Brito, Alejandro Hernández Domínguez                                                                                                               |
-| Date            | 29/03/2023                                                                                                                                                        |
+| Use case | C.U.8 Check league ranking                            |
+| -------- | ----------------------------------------------------- |
+| Sources  | [Use case diagram](img/Diagrama_casos_uso.drawio.png) |
+| Actor    | Registered user 13                                    |
 
 | Use case        | C.U.9 Create a league                                 |
 | --------------- | ----------------------------------------------------- |
@@ -130,17 +123,18 @@
 | Autor           | Adrián Herrera Brito, Alejandro Hernández Domínguez   |
 | Date            | 29/03/2023                                            |
 
-| Use case        | C.U.10 Create a league                                        |
+13
+| Use case | C.U.10 Create a league |
 | --------------- | ------------------------------------------------------------- |
-| Sources         | [Use case diagram](img/Diagrama_casos_uso.drawio.png)         |
-| Actor           | Registered user                                               |
-| Description     | The user can invite some friends to the created league        |
+| Sources | [Use case diagram](img/Diagrama_casos_uso.drawio.png) |
+| Actor | Registered user |
+| Description | The user can invite some friends to the created league |
 | Pre-Condiciones | Having a created league (Be the administrator of that league) |
-| Post-Conditions | -                                                             |
-| Requirements    | -                                                             |
-| Notes           | -                                                             |
-| Autor           | Adrián Herrera Brito, Alejandro Hernández Domínguez           |
-| Date            | 29/03/2023                                                    |
+| Post-Conditions | - |
+| Requirements | - |
+| Notes | - |
+| Autor | Adrián Herrera Brito, Alejandro Hernández Domínguez |
+| Date | 29/03/2023 |
 
 | Use case        | C.U.11 Check global ranking                                                            |
 | --------------- | -------------------------------------------------------------------------------------- |
