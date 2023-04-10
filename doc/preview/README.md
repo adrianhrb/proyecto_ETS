@@ -1,1 +1,0 @@
-# Carpeta dedicada a la preview de la aplicacion
