@@ -6,53 +6,55 @@
 <img width=50% src="img/FFlogoname.jpeg"/>
 </div>
 
-## Indice
+## Index
 
-## 1. [Descripción del problema.](#id1)
+## 1. [Introduction of the objective.](#id1)
 
-## 2. [Objetivo.](#id2)
+## 2. [Objetive.](#id2)
 
-## 3. [Arquitectura y tencologías a utilizar.](#id3)
+## 3. [Architecture and technologies to be used.](#id3)
 
-## 4. [Boceto de la solución.](#id4)
+## 4. [Sketch of a solution..](#id4)
 
 <a name="id1"></a>
 
-### Descripción del problema
+### Introduction of the objective
 
-Se pretende diseñar una aplicación fantasy sobre formula uno...
+Fantasy games are those in which you compose a team with real players from different teams and earn points based on their performance each week, winning the one that accumulates the most points at the end of the season, it is intended to be very similar to the real formula one championship.
+
+The first thing to know is that **Formula Fantasy** will consist of composing a team made up of five drivers and two teams.
 
 <a name="id2"></a>
 
 ### Objetivo
 
-**Formula Fantasy** surge como muchas de las otras plataformas “fantasy” que han surgido recientemente aprovechando el tirón del inicio del campeonato, pero a diferencia de estas, tenemos la intención de proponer una alternativa que llegue a convertirse en la referencia del mercado, suplir las carencias del resto de plataformas, y estar al altura de una competición puntera como es la Fórmula 1.
+The application arises as many of the other "fantasy" platforms that have emerged recently taking advantage of the pull of the start of the championship, but unlike these, we intend to propose an alternative that will become the market reference, make up for the shortcomings of other platforms, and is at the height of a leading competition such as Formula 1.
 
-El aplicativo contará con un modo de juego principal en el que el usuario, como límite máximo 1h antes de los primeros entrenamientos libres, diseñará su equipo formado por 5 pilotos, y 2 escuderías, el resultado de la clasificación y de la carrera determinarán la cantidad de puntos que habrá obtenido cada piloto respectivamente, así como los puestos de los respectivos monoplazas de las escuderías escogidas.
+The application will have a main game mode in which the user, at the latest 1h before the first free practice, will design his team formed by 5 drivers, and 2 teams, the result of the classification and the race will determine the amount of points that each driver will have obtained respectively, as well as the positions of the respective single-seaters of the chosen teams.
 
-Cada gran premio, el usuario podrá escoger entre 3 equipos que ya haya especificado para jugar en ese gran premio. Y a medida que avance el campeonato la suma de puntos obtenida se reflejará en distintos rankings a nivel nacional, regional, o en liguillas formadas por entre 2 y 20 competidores que haya escogido el usuario o usuarios (familia, amigos, compañeros,etc), y dichos puntos se transformarán también en dinero virtual dentro de la aplicación para poder fichar a pilotos mejores o…
+In each Grand Prix, the user will be able to choose between the 3 teams he has specified to compete in that Grand Prix. And as the championship progresses, the sum of points obtained will be reflected in different rankings at national, regional level, or in leagues formed by between 2 and 20 competitors chosen by the user or users (family, friends, colleagues, etc.), and these points will also be transformed into virtual money within the application to sign better drivers or....
 
-La idea es que el usuario solo se tenga que preocupar de disfrutar jugando cada gran premio y fomentar así la pasión por la fórmula1. De este concepto surgirán distintas palancas que hagan que el jugador gane más en cada premio (uso del DRS adecuado, vuelta rápida, número de adelantamientos, tiempos en boxes, etc).
+The idea is that the user only has to worry about enjoying playing each Grand Prix and thus encourage the passion for Formula 1. From this concept will emerge different levers that will make the player win more in each race (use of proper DRS, fast lap, number of overtakes, pit times, etc).
 
-Como anexo, se pretende implementar un sistema de apuestas en la que los usuarios no sólo disfruten sintiéndose unos verdaderos jefes de equipo de fórmula 1, sino que también pongan a prueba todos sus conocimientos y predicciones en cada carrera.
+As an annex, it is intended to implement a betting system in which users not only enjoy feeling like real Formula 1 team managers, but also test all their knowledge and predictions in each race.
 
 <a name="id3"></a>
 
-### Arquitectura y tencologías a utilizar
+### Architecture and technologies used
 
 - Backend:
 
-    - Python.
-    - SQLite.
+  - Python.
+  - SQLite.
 
 - Frontend:
-    - HTML.
-    - CSS.
-    - JavaScript.
+  - HTML.
+  - CSS.
+  - JavaScript.
 
 <a name="id4"></a>
 
-### Boceto de la solución
+### Outline of the solution
 
 <div align="center">
 <img width=50% src="img/first.jpg"/>
