@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <title>Formula Fantasy</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="signup_container">
+            <img src="img/nlogo5.jpg" class="avatar" alt="Avatar Image">
+            <h1>Sign up</h1>
+            <form>
+                <form action="register.py" method="post"></form>
+                <!-- <label for="username">Name</label>
+                <input type="text" name="username" id="username" placeholder="Enter name" required> -->
+                <label for="email1">Email</label>
+                <input type="email" name="email1" id="email1" placeholder="Enter email" required>
+                <label for="password1">Password</label>
+                <input type="password" name="password1" id="password1" placeholder="Enter password" required>
+                <label for="confirm_password">Confirm Password:</label>
+                <input type="password" name="confirm_password" id="confirm_password" placeholder="Repeat password"
+                    required>
+                <input type="submit" value="Sign up">
+                <a class="ok_account">I have an account</a>
+            </form>
+        </div>
+        <div class="signin_container">
+            <img src="img/nlogo5.jpg" class="avatar" alt="Avatar Image">
+            <h1>Sign in</h1>
+            <form action="formula_fantasy.py" method="post">
+                <label for="email2">Email</label>
+                <input type="email" name="email2" id="email2" placeholder="Enter email" required>
+                <label for="password">Password</label>
+                <input type="password" name="password2" id="password2" placeholder="Enter password" required>
+                <input type="submit" value="Sign in">
+                <a href="">Lost your Password?</a><br>
+                <a class="no_account">Don't have an account?</a>
+            </form>
+            <div class="rrss-container">
+                <div class="box1"><a href="google.es"></a></div>
+                <div class="box2"><a href="apple.es"></a></div>
+                <div class="box3"><a href="twitter.es"></a></div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

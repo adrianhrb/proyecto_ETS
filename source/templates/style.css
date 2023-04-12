@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+body {
+    background-image: linear-gradient(135deg, #ffffff 25%, #212020 25%, #212020 50%, #ffffff 50%, #ffffff 75%, #212020 75%, #212020 100%);
+    background-size: 707.11px 707.11px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+}
+
+.container {
+    width: 320px;
+    height: 500px;
+    background: #212020;
+    border-radius: 10px;
+    box-shadow: 0px 0px 60px black;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+
+.signup_container .avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+
+.signup_container h1 {
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.signup_container label {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+}
+
+.signup_container input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.signup_container input[type="text"],
+.signup_container input[type="password"],
+.signup_container input[type="email"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.signup_container input[type="submit"] {
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #b80f22;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.signup_container input[type="submit"]:hover {
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.signup_container a {
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 20px;
+    color: darkgrey;
+}
+
+.signup_container a:hover {
+    color: #fff;
+}
+
+.signin_container .avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+
+.signin_container h1 {
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.signin_container label {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+}
+
+.signin_container input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.signin_container input[type="text"],
+.signin_container input[type="password"],
+.signin_container input[type="email"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.signin_container input[type="submit"] {
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #b80f22;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.signin_container input[type="submit"]:hover {
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.signin_container a {
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 20px;
+    color: darkgrey;
+}
+
+.signin_container a:hover {
+    color: #fff;
+}
+
+.rrss-container {
+    margin-top: 30px;
+    display: block;
+}
+
+.box1 {
+    display: inline-block;
+    width: 50px;
+    height: 45px;
+    margin-left: 50px;
+    margin-right: 15px;
+    background: url(img/logo_g.webp) no-repeat;
+    background-size: 75%;
+}
+
+.box2 {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background: url(img/logo_a.png) no-repeat;
+    background-size: 65%;
+}
+
+.box3 {
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+    background: url(img/logo_f.webp) no-repeat;
+    background-size: 105%;
+}
