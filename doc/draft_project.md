@@ -3,18 +3,18 @@
 # Anteproyecto - Formula Fantasy
 
 <div align="center">
-<img width=50% src="img/FFlogoname.jpeg"/>
+<img width=30% src="img/nlogo5.jpg"/>
 </div>
 
 ## Index
 
-## 1. [Introduction of the objective.](#id1)
+## 1. [Introduction of the objective](#id1)
 
-## 2. [Objetive.](#id2)
+## 2. [Objetive](#id2)
 
-## 3. [Architecture and technologies to be used.](#id3)
+## 3. [Architecture and technologies to be used](#id3)
 
-## 4. [Sketch of a solution..](#id4)
+## 4. [Sketch of a solution](#id4)
 
 <a name="id1"></a>
 
@@ -26,7 +26,7 @@ The first thing to know is that **Formula Fantasy** will consist of composing a 
 
 <a name="id2"></a>
 
-### Objetivo
+### Objetive
 
 The application arises as many of the other "fantasy" platforms that have emerged recently taking advantage of the pull of the start of the championship, but unlike these, we intend to propose an alternative that will become the market reference, make up for the shortcomings of other platforms, and is at the height of a leading competition such as Formula 1.
 
@@ -57,7 +57,8 @@ As an annex, it is intended to implement a betting system in which users not onl
 ### Outline of the solution
 
 <div align="center">
-<img width=50% src="img/first.jpg"/>
+<img width=90% src="img/outline_solution.png"/>
 </div>
+
 
 </div>
