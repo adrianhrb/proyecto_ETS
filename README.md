@@ -1,2 +1,2 @@
-# proyecto_ETS
-Repositorio dedicado a la simulación de proyecto de ETS
+# IDE_Project
+Repository dedicated to the simulation of a project of the development environments subject.
