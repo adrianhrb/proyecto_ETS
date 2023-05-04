@@ -57,13 +57,13 @@ As an annex, it is intended to implement a betting system in which users not onl
 ### First outline of the solution
 
 <div align="center">
-<img width=65% src="img/outline_solution.png"/>
 
-<img width=65% src="preview/login.jpg"/>
+<img width=65% src="preview/login%20(1).jpg"/>
 
-<img width=65% src="preview/sign_up.jpg"/>
+<img width=65% src="preview/sign_up%20(1).jpg"/>
+
+<img width=65% src="img/outline_solution%20(1).png"/>
 
 </div>
-
 
 </div>
