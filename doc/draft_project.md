@@ -1,9 +1,11 @@
 <div align="justify">
 
-# Draft Project - Formula Fantasy
+# Draft Project
 
 <div align="center">
-<img width=30% src="img/nlogo5.jpg"/>
+<img width=20% src="img/nlogo5.jpg"/>
+
+# Formula Fantasy
 </div>
 
 ## Index
