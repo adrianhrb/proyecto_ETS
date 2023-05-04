@@ -58,9 +58,9 @@ As an annex, it is intended to implement a betting system in which users not onl
 
 <div align="center">
 
-<img width=65% src="preview/login%20(1).jpg"/>
+<img width=65% src="img/login%20(1).jpg"/>
 
-<img width=65% src="preview/sign_up%20(1).jpg"/>
+<img width=65% src="img/sign_up%20(1).jpg"/>
 
 <img width=65% src="img/outline_solution%20(1).png"/>
 
