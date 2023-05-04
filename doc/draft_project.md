@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Anteproyecto - Formula Fantasy
+# Draft Project - Formula Fantasy
 
 <div align="center">
 <img width=30% src="img/nlogo5.jpg"/>
