@@ -21,13 +21,13 @@
 
 <a name="id1"></a>
 
-### Introduction of the web application
+### 1. Introduction of the web application
 
 <a href="https://en.wikipedia.org/wiki/Fantasy_sport"> Fantasy sport games </a> are those in which you compose a team with real players from different teams and earn points based on their performance each week, winning the one that accumulates the most points at the end of the season, it is intended to be very similar to the real formula one championship. The first thing to know is that **Formula Fantasy** will consist of composing a team made up of five drivers and two teams.
 
 <a name="id2"></a>
 
-### Purpose of the web application
+### 2. Purpose of the web application
 
 The application arises as many of the other <a href="https://en.wikipedia.org/wiki/Fantasy_sport"> fantasy sport games </a> that have emerged recently taking advantage of the pull of the start of the championship, but unlike these, we intend to propose an alternative that will become the market reference, make up for the shortcomings of other platforms, and is at the height of a leading competition such as Formula 1.
 
@@ -41,7 +41,7 @@ As an annex, it is intended to implement a betting system in which users not onl
 
 <a name="id3"></a>
 
-### Architecture and technologies to be used
+### 3. Architecture and technologies to be used
 
 - Backend:
 
@@ -55,7 +55,7 @@ As an annex, it is intended to implement a betting system in which users not onl
 
 <a name="id4"></a>
 
-### First outline of the solution
+### 4. First outline of the solution
 
 <div align="center">
 
