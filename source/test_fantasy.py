@@ -55,6 +55,6 @@ def check_not_enough_budget():
     assert check == f"Not enough budget to buy the driver"
 
 
-def driver_existence():
-    check = user1.buy_driver("Leo Messi")
-    assert check == f"Driver Leo Messi is not racing in F1"
+def fake_driver():
+    check = user1.buy_driver("Pepe")
+    assert check == f"Driver Pepe is not racing in F1"
