@@ -95,11 +95,11 @@ class User:
 
     @to_check_login
     def buy_driver(self, driver: str):
-        driver_cost = DRIVERS[driver]
-        if self.budget - driver_cost < 0:
-            return f"Not enough budget to buy the driver"
+        driver_cost = DRIVERS[driver] if driver in DRIVERS else -1
         if driver not in DRIVERS:
             return f"Driver {driver} is not racing in F1"
+        if self.budget - driver_cost < 0:
+            return f"Not enough budget to buy the driver"
         if len(self.team["drivers"]) >= 5:
             return f"Drivers lineup is full"
         if driver in self.team["drivers"]:
@@ -110,11 +110,13 @@ class User:
 
     @to_check_login
     def buy_constructor(self, constructor: str):
-        constructor_cost = CONSTRUCTORS[constructor]
-        if self.budget - constructor_cost < 0:
-            return f"Not enough budget to buy the driver"
+        constructor_cost = (
+            CONSTRUCTORS[constructor] if constructor in CONSTRUCTORS else -1
+        )
         if constructor not in CONSTRUCTORS:
             return f"Constructor {constructor} is not racing in F1"
+        if self.budget - constructor_cost < 0:
+            return f"Not enough budget to buy the driver"
         if len(self.team["constructors"]) >= 2:
             return f"Constructors lineup is full"
         if constructor in self.team["constructors"]:
