@@ -7,4 +7,4 @@
    - Class diagram [Drawio](diagrams/class.png)
    - Entity relation data base [Drawio](diagrams/entity_relation.png)
 
-3. Frontend preview look of app [Login preview](preview/login.jpg) || [Sign up preview](preview/sign_up.jpg)
+3. Frontend preview look of app [Login preview](img/login.jpg) || [Sign up preview](img/sign_up.jpg)
